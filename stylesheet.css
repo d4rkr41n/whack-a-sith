@@ -1,0 +1,29 @@
+/*head*/
+*{
+	cursor: url('saber.cur'),auto;
+}
+body{
+    color: #FFF;
+    background: #000000;
+    background-image: url("starwarz.jpg");
+    background-repeat: no-repeat;
+}
+body h1{
+    text-align: center;
+}
+body h2{
+    text-align: center;
+}
+/*body*/
+#board{
+    float: left;
+    margin:0 0 0 25%;
+}
+
+#scoreboard{
+    border: 2px solid white;
+    margin:0 0 0 70%;
+    padding: 10px;
+}
+
+/*main*/
